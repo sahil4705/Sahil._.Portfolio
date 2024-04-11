@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Sahil._.Portfolio/static/css/main.de2fee36.css",
+    "main.js": "/Sahil._.Portfolio/static/js/main.56584dfa.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Sahil._.Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Sahil._.Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/library-management-system.png": "/Sahil._.Portfolio/static/media/library-management-system.304d7d28c0f57241001b.png",
+    "static/media/Invoice.png": "/Sahil._.Portfolio/static/media/Invoice.877e7434c640513a498d.png",
+    "static/media/Sahil_Pumbhadiya-BIT_MESRA.pdf": "/Sahil._.Portfolio/static/media/Sahil_Pumbhadiya-BIT_MESRA.5132887d96bf0378c520.pdf",
+    "static/media/home-main.svg": "/Sahil._.Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Sahil._.Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/Sahil._.Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Sahil._.Portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/Sahil._.Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Sahil._.Portfolio/index.html",
+    "main.de2fee36.css.map": "/Sahil._.Portfolio/static/css/main.de2fee36.css.map",
+    "main.56584dfa.js.map": "/Sahil._.Portfolio/static/js/main.56584dfa.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Sahil._.Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Sahil._.Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de2fee36.css",
+    "static/js/main.56584dfa.js"
+  ]
+}
